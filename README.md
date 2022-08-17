@@ -18,7 +18,7 @@
 </p>
 
 <h5 align="center">
-  <code><a href="[https://www.facebook.com/poorna.senadheera](https://www.facebook.com/profile.php?id=100010466346071)" title="Facebook Profile"><img width="25px" height="25px"                                                                             src="https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/facebook.png">Facebook</a></code>
+  <code><a href="https://www.facebook.com/profile.php?id=100010466346071" title="Facebook Profile"><img width="25px" height="25px"                                                                             src="https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/facebook.png">Facebook</a></code>
   <code><a href="https://www.instagram.com/poorna_xd/" title="Instagram Profile"><img width="25px" height="25px" src="https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/poorna-senadheera-672956245/" title="LinkedIn Profile"><img width="25px" height="25px" src="https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/PoornaS100" title="Twitter Profile"><img width="25px" height="25px" src="https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/twitter.png"> Twitter</a></code>
