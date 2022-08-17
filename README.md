@@ -68,7 +68,7 @@
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
-	<img src="https://img.icons8.com/windows/344/dev.png"/></a>
+	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
 	
 	
 	
