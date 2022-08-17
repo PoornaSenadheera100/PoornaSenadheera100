@@ -28,7 +28,7 @@
 
 - 👯 I’m looking to collaborate on some projects
 - 💬 Ask me about anything related to programming.
-- 📫 How to reach me: [@PoornaSenadheera100](mailto:inbox.poornasenadheera100@gmail.com;)
+- 📫 How to reach me: [@PoornaSenadheera100](mailto:poornasenadheera100@gmail.com)
 
 
 
