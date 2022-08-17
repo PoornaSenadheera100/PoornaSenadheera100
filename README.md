@@ -70,7 +70,7 @@
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
-	<img src="https://i.pinimg.com/564x/67/c5/77/67c577f58020006e47b3655fb79e484f.jpg"/></a>
+	<img src="https://i.pinimg.com/564x/67/c5/48/67c577f58020006e47b3655fb79e484f.jpg"/></a>
 	
 
 	
