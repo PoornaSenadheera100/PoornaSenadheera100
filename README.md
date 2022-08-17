@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-## Tools and Languages
+## <img src="https://img.icons8.com/color/48/000000/settings.png"/> Tools and Languages
 
 
 <!--
