@@ -25,6 +25,7 @@
   <code><a href="mailto:poornasenadheera100@gmail.com; poornasenadheeraonline@gmail.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/gmail.png"> Gmail</a></code>
 
 </h5>
+</br>
 
 - 👯 I’m looking to collaborate on some projects. :computer:
 - 💬 Ask me about anything related to programming. :hash:
