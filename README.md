@@ -26,7 +26,7 @@
 
 </h5>
 
-- 👯 I’m looking to collaborate on some projects. :laptop
+- 👯 I’m looking to collaborate on some projects. :laptop:
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: [@PoornaSenadheera100](mailto:poornasenadheera100@gmail.com)
 
