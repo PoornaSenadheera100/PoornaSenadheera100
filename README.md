@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/poorna-senadheera-672956245/">
 	<img src="https://img.shields.io/badge/-Poorna_Senadheera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poorna-senadheera/" alt="https://www.linkedin.com/in/poorna-senadheera/" /></a>
 	<a href="https://PoornaSenadheera100.github.io">
-	<img src="https://img.shields.io/github/stars/PoornaSenadheera100?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
+	<img src="https://img.shields.io/github/stars/PoornaSenadheera?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
 </p>
 </h2>
 
