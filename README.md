@@ -47,6 +47,21 @@
  </p>
 
 
+<p align="center">
+   <a href="https://github.com/PoornaSenadheera100/github-readme-stats"><img alt="Poorna Senadheera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoornaSenadheera100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PoornaSenadheera100/github-readme-stats"><img alt="Poorna Senadheera's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaSenadheera100&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<br/>
+<br/>
+
+
+<a href="https://github.com/PoornaSenadheera100/github-readme-activity-graph"><img alt="Poorna Senadheera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PoornaSenadheera100&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
 
 
 <!--
