@@ -39,10 +39,6 @@
 <br>
 
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Status
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 
