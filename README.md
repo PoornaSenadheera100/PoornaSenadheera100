@@ -39,8 +39,6 @@
 <br>
 
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Status
-<br/>
-<br/>
 
 <p align="center">
     <a href="https://github.com/PoornaSenadheera100/github-readme-streak-stats">
