@@ -36,7 +36,21 @@
 
 ![enter image description here](https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/coding.gif)
 
+<br>
 
+## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Status
+  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<p align="center">
+    <a href="https://github.com/PoornaSenadheera100/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PoornaSenadheera100's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PoornaSenadheera100&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+ </p>
 
 
 
