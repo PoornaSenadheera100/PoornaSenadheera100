@@ -28,8 +28,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
 
 - 👯 I’m looking to collaborate on some projects. :computer:
 - 💬 Ask me about anything related to programming. :hash:
