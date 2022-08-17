@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+GitHub+Profile+.+.+.+.;View+my+repositories+and+learn;+.+.+.&center=true"></a>  
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Hello+!;Welcome+To+My+GitHub+Profile+.+.+.;View+my+repositories+and+learn;+.+.+.&center=true"></a>  
 </p>
 
 
