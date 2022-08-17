@@ -1,5 +1,5 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Poorna Senadheera. 
-<h3 align="center">Undergraduate in Sri Lanka Institute of Information Technology</h3>
+<h3 align="center">Undergraduate at Sri Lanka Institute of Information Technology</h3>
 <h4 align="center">Colombo, Sri Lanka</h4>
 
 <p align="center"> 
