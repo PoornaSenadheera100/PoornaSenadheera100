@@ -30,8 +30,7 @@
 - 👯 I’m looking to collaborate on some projects. :computer:
 - 💬 Ask me about anything related to programming. :hash:
 - 📫 How to reach me: [@PoornaSenadheera100](mailto:poornasenadheera100@gmail.com)
-
-
+</br>
 - 😄 Coding is My Life. :yum:
 
 ![enter image description here](https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/coding.gif)
