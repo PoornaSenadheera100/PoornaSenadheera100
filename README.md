@@ -140,6 +140,9 @@
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img height="48" src="https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg"/> </a>
 	
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
+	<img height="48" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"/> </a>
+	
 
 
 
