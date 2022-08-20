@@ -114,7 +114,7 @@
 </br>
 
 <a href="https://www.bloodshed.net/" target="_blank"> 
-	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
+	<img width="48" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"/></a>
 	
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/officel/48/java-eclipse.png"/></a>
@@ -129,7 +129,7 @@
 	<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>
 	
 <a href="https://developer.android.com/" target="_blank"> 
-	<img width="48px" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
+	<img width="48" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
 	
 
 
