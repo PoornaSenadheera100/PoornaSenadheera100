@@ -64,10 +64,6 @@
 ## <img src="https://img.icons8.com/color/48/000000/settings.png"/> <img src="https://img.icons8.com/color/48/000000/code.png"/> Tools and Languages
 
 <p align="left"> 
-<a href="https://www.bloodshed.net/" target="_blank"> 
-	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
-
-</br>
 	
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
@@ -116,6 +112,11 @@
 	<img align="left" alt="" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5Duu3bxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8k7tg1r8tzwkwtsxyz1v.png" /> </a> 
 	
 </br>
+
+<a href="https://www.bloodshed.net/" target="_blank"> 
+	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
+	
+
 
 </p>
 
