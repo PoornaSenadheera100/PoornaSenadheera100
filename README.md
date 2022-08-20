@@ -116,6 +116,9 @@
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
 	
+<a href="https://www.bloodshed.net/" target="_blank"> 
+	<img src="https://img.icons8.com/officel/48/java-eclipse.png"/></a>
+	
 
 
 </p>
