@@ -125,6 +125,12 @@
 <a href="https://code.visualstudio.com/download" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 	
+<a href="https://developer.android.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>
+	
+<a href="https://developer.android.com/" target="_blank"> 
+	<img src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
+	
 
 
 
