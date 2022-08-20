@@ -61,26 +61,28 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/settings.png"/> Tools and Languages
+## <img src="https://img.icons8.com/color/48/000000/settings.png"/> Tools
 
 <p align="left"> 
-
-<a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-<a href="https://www.bloodshed.net/" target="_blank"> 
+	<a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
 	
 
+	<a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 	
-</br></br>
+	</br></br>
 
-<a href="https://www.w3.org/html/" target="_blank"> 
+	<a href="https://www.w3.org/html/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
+	
+	<a href="https://www.w3schools.com/css/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+	
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-<a href="https://www.w3schools.com/php/" target="_blank"> 
+
+	<a href="https://www.w3schools.com/php/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
 </p>
 
