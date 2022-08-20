@@ -61,18 +61,19 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/settings.png"/> Tools
+## <img src="https://img.icons8.com/color/48/000000/settings.png"/> <img src="https://img.icons8.com/color/48/000000/code.png"/> Tools and Languages
 
 <p align="left"> 
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
 
 </br>
-
-## <img src="https://img.icons8.com/color/48/000000/code.png"/> Languages
 	
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+	
+<a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 	
 </br>
 
