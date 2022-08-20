@@ -66,12 +66,13 @@
 <p align="left"> 
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
-	
 
+## <img src="https://img.icons8.com/color/48/000000/settings.png"/> Languages
+	
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 	
-	</br></br>
+</br></br>
 
 <a href="https://www.w3.org/html/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
