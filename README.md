@@ -67,7 +67,7 @@
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/windows/48/dev.png"/></a>
 
-## <img src="https://img.icons8.com/color/48/000000/settings.png"/> Languages
+## <img src="https://img.icons8.com/color/48/000000/code.png"/> Languages
 	
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
