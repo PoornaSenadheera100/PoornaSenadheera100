@@ -75,6 +75,9 @@
 <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 	
+<a href="https://www.java.com" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+	
 </br>
 
 <a href="https://www.w3.org/html/" target="_blank"> 
@@ -88,6 +91,32 @@
 
 <a href="https://www.w3schools.com/php/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+	
+<a href="https://getbootstrap.com" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+	
+</br>
+
+<a href="https://reactjs.org/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+	
+<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+	
+<a href="https://expressjs.com" target="_blank"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+	
+<a href="https://www.mongodb.com/" target="_blank"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+	
+<a href="https://www.npmjs.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+	
+<a href="https://yarnpkg.com/" target="_blank"> 
+	<img align="left" alt="" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5Duu3bxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8k7tg1r8tzwkwtsxyz1v.png" /> </a> 
+	
+</br>
+
 </p>
 
 <!--
