@@ -119,6 +119,13 @@
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img src="https://img.icons8.com/officel/48/java-eclipse.png"/></a>
 	
+<a href="https://visualstudio.microsoft.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+	
+<a href="https://code.visualstudio.com/download" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+	
+
 
 
 </p>
