@@ -139,6 +139,9 @@
 	
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img height="48" src="https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg"/> </a>
+
+<a href="https://tomcat.apache.org/" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/tomcat.png"/></a>
 	
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img height="48" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"/> </a>
@@ -148,6 +151,11 @@
 	
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img height="48" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> </a>
+	
+<a href="https://git-scm.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+	
+
 	
 
 
