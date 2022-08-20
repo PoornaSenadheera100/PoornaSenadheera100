@@ -143,6 +143,9 @@
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img height="48" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"/> </a>
 	
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
+	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png"/> </a>
+	
 
 
 
