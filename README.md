@@ -159,9 +159,9 @@
 	<img height="48" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"/> </a>
 
 </p>
-##
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=You+might+make+mistakes.;But+the+Best+Teacher+is+your+LAST+MISTAKE+!;&center=true"></a>  
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=You+might+make+mistakes.;But+.+.+.;the+Best+Teacher+is+.+.+.;your+LAST+MISTAKE+!;&center=true"></a>  
 </p>
 
 <!--
