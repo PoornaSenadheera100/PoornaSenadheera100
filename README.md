@@ -74,8 +74,8 @@
 <a href="https://www.java.com" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 	
-<a href="https://www.java.com" target="_blank"> 
-	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> 
+	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
 	
 	
 	
