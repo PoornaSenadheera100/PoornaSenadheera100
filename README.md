@@ -133,6 +133,11 @@
 <a href="https://developer.android.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>
 	
+<a href="https://www.jetbrains.com/idea/" target="_blank"> 
+	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/> </a>
+	
+	
+	
 <a href="https://www.netacad.com/" target="_blank"> 
 	<img width="48" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
 	
