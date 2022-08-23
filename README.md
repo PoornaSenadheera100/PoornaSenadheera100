@@ -112,10 +112,17 @@
 	
 <a href="https://www.npmjs.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-	
+
+<--
+
+Yarn
+
 <a href="https://yarnpkg.com/" target="_blank"> 
 	<img align="left" alt="" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5Duu3bxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8k7tg1r8tzwkwtsxyz1v.png" /> </a> 
-	
+
+-->
+
+
 </br>
 
 <a href="https://www.bloodshed.net/" target="_blank"> 
@@ -193,6 +200,11 @@
 	
 <a href="https://staruml.io/" target="_blank"> 
 	<img height="48" src="https://staruml.io/image/staruml_logo.png"/> </a>
+	
+<a href="https://www.draw.io/" target="_blank"> 
+	<img height="48" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png"/> </a>
+	
+	
 	
 	
 	
