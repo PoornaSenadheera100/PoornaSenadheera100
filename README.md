@@ -148,6 +148,11 @@
 <a href="https://octave.org/" target="_blank"> 
 	<img width="48" src="https://icon-library.com/images/octave-icon/octave-icon-5.jpg"/> </a>
 	
+<a href="https://www.rstudio.com/" target="_blank"> 
+	<img width="48" src="https://www.kindpng.com/picc/m/208-2087341_rstudio-icon-r-studio-hd-png-download.png"/> </a>
+	
+	
+	
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 	
