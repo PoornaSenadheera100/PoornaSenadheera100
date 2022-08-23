@@ -170,6 +170,11 @@
 	
 <a href="https://www.apachefriends.org/" target="_blank"> 
 	<img height="48" src="https://e1.pngegg.com/pngimages/978/256/png-clipart-clean-hd-icon-ii-xampp-squircle-orange-and-black-icon.png"/> </a>
+	
+<a href="https://www.justinmind.com/" target="_blank"> 
+	<img height="48" src="https://play-lh.googleusercontent.com/9uyALbzw-lHHIAp3WqBihDKQ_PIozjUkU7IS0b08Me8xreAOvBG3-imZwW3m4PC4Tlh9"/> </a>
+	
+	
 
 </p>
 </br>
