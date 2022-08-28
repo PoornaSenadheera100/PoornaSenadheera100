@@ -78,7 +78,7 @@
 	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
 	
 <a href="https://www.python.org/" target="_blank"> 
-	<img height="40" src="https://img1.pnghut.com/18/3/10/eHD3bKuRkj/symbol-computer-science-rectangle-highlevel-programming-language-logo.jpg"/> </a>
+	<img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> </a>
 	
 	
 	
