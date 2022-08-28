@@ -77,6 +77,10 @@
 <a href="https://kotlinlang.org/" target="_blank"> 
 	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
 	
+<a href="https://www.python.org/" target="_blank"> 
+	<img height="40" src="http://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"/> </a>
+	
+	
 	
 	
 </br>
