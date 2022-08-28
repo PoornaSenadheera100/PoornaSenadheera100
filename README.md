@@ -78,7 +78,7 @@
 	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
 	
 <a href="https://www.python.org/" target="_blank"> 
-	<img height="40" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/> </a>
+	<img height="40" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg"/> </a>
 	
 	
 	
