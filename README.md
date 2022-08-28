@@ -78,7 +78,7 @@
 	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
 	
 <a href="https://www.python.org/" target="_blank"> 
-	<img height="40" src="http://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"/> </a>
+	<img height="40" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/> </a>
 	
 	
 	
