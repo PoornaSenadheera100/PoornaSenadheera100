@@ -152,7 +152,7 @@ Yarn
 	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/> </a>
 	
 <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-	<img height="48" src="https://w7.pngwing.com/pngs/639/10/png-transparent-pycharm-jetbrains-intellij-idea-integrated-development-environment-python-%E8%AE%B0%E4%BA%8B%E6%9C%AC-angle-text-logo.png"/> </a>
+	<img height="48" src="https://banner2.cleanpng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg"/> </a>
 	
 <a href="https://www.netacad.com/" target="_blank"> 
 	<img width="48" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
