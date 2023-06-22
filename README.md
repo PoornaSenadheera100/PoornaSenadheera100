@@ -80,6 +80,9 @@
 	
 <a href="https://www.python.org/" target="_blank"> 
 	<img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> </a>
+
+ <a href="https://dart.dev/" target="_blank"> 
+	<img height="40" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"/> </a>
 	
 	
 	
