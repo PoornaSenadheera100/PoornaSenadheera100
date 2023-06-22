@@ -156,7 +156,7 @@ Yarn
 	<img height="48" src="https://banner2.cleanpng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg"/> </a>
 	
 <a href="https://www.netacad.com/" target="_blank"> 
-	<img width="48" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
+	<img width="48" src="https://networkslearning.com/wp-content/uploads/2020/02/Screenshot-2020-02-15-at-15.54.25.png"/> </a>
 	
 <a href="https://octave.org/" target="_blank"> 
 	<img width="48" src="https://icon-library.com/images/octave-icon/octave-icon-5.jpg"/> </a>
