@@ -162,7 +162,7 @@ Yarn
 	<img width="48" src="https://icon-library.com/images/octave-icon/octave-icon-5.jpg"/> </a>
 	
 <a href="https://www.rstudio.com/" target="_blank"> 
-	<img width="40" src="https://www.kindpng.com/picc/m/208-2087341_rstudio-icon-r-studio-hd-png-download.png"/> </a>
+	<img width="40" height="40" src="https://p1.hiclipart.com/preview/233/348/954/numix-circle-for-windows-rstudio-icon-png-icon-thumbnail.jpg"/> </a>
 	
 	
 	
