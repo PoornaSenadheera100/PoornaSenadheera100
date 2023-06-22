@@ -124,6 +124,9 @@
 <a href="https://www.npmjs.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 
+ <a href="https://flutter.dev/" target="_blank"> 
+	<img height="40" src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png/revision/latest?cb=20210426191500"/></a>
+
 <!--
 
 Yarn
