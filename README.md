@@ -195,10 +195,10 @@ Yarn
 <a href="https://git-scm.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 
- <!--
+ 
 <a href="https://www.postman.com/" target="_blank"> 
-	<img height="48" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"/> </a>
-	-->
+	<img height="48" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"/> </a>
+
 <a href="https://www.apachefriends.org/" target="_blank"> 
 	<img height="48" src="https://e1.pngegg.com/pngimages/978/256/png-clipart-clean-hd-icon-ii-xampp-squircle-orange-and-black-icon.png"/> </a>
 	
